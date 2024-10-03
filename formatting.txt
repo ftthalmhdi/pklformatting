@@ -1,19 +1,19 @@
 1.Telkom Witel Enggal Majapahit
 2.Fattah al mahdi
 3.XII RPL 1
-4.
+4.Hermawan Rijal Arrasy,S.kom
 5.
 6.
-7.
-8.
-9.
-10.
-11.
+7.00730009
+8.Agung subiantoro
+9.Erbina meliana purba
+10.730390
+11.910292
 12.
-13.
-14.
-15.
-16.
+13.Hermawan Rijal Arrasy,S.kom
+14.Fattah Al Mahdi
+15.check file 15.txt
+16.check file 16.txt
 17.
 18.
 19.
